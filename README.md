@@ -1,6 +1,7 @@
 
 
-# INTRODUCTION
+# Database Management using SQL
+
 We automate the management of LAAS-CNRS laboratory evaluations through the development of a database. We eliminate the use of various scattered media by centralizing all the necessary data in a relational database. This data can be consulted and updated on demand. Here is our report for the setup of this database
 
 According to the relational model given of the LAAS lab, several tables were created which stored info of all the people, publications, projects and more.
